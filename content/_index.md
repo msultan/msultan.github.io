@@ -67,11 +67,10 @@ sections:
           company_url: ''
           company_logo: 
           location: California
-          date_start: '2023'
+          date_start: '2023-10-16'
           date_end: ''
           description: |2-
               Responsibilities include:
-
               * Analysing
               * Modelling
               * Deploying
@@ -80,8 +79,8 @@ sections:
           company_url: ''
           company_logo: org-x
           location: California
-          date_start: '2018'
-          date_end: '2023'
+          date_start: '2018-06-15'
+          date_end: '2023-09-01'
           description: 'test'
     design:
       columns: '2'
