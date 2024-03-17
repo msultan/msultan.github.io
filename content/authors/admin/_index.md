@@ -21,8 +21,8 @@ role: Bio/Chem ML Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Absci
+    url: https://absci.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include computational chemistry, protein design, generative models, and artificial intelligence.
@@ -30,8 +30,9 @@ bio: My research interests include computational chemistry, protein design, gene
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational chemistry
+  - Molecular design
+  - Imaging & Microscopy
 
 # Education to show in About widget
 education:
