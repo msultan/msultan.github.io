@@ -82,7 +82,7 @@ sections:
           location: California
           date_start: '2018'
           date_end: '2023'
-          description:''
+          description:
     design:
       columns: '2'
   - block: collection
