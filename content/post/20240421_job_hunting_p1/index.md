@@ -42,7 +42,7 @@ Okay so now that you have thought about what you want in your next role, you can
 
 
 ## Evaluating companies 
-Now lets assume that you have either gotten a bunch of offers already or you now have a very large list of companies that you need to pare down to a prioritized list. Here again, ranking each company along several axis might be helpful.  
+Now lets assume that you have either gotten a bunch of offers already or you now have a very large list of companies that you need to pare down to a prioritized list. Here again, ranking each company along several axis might be helpful. Things you might want to consider are: 
 
 ```markmap {height="200px"}
 - Company criterion to consdier  
@@ -65,7 +65,7 @@ Now lets assume that you have either gotten a bunch of offers already or you now
 
 ## Final thoughts 
 
-In Islam, there is a hadith from our Prophet Muhammad (PBUH) that I like that says: “Tie your camel first, and then put your trust in Allah.” Ultimately, you will never really "know" if your job choice was the optimal one. You will have FOMO about jobs not taken and uncertainty and doubt about the ones that you did take. The best you can do is do as much due diligence as possible and then take a leap of faith. In the end, you will be okay. We are privaleged enough to be able to work on products that can potentially save human lives.
+In Islam, there is a hadith from our Prophet Muhammad (PBUH) that I like that says: “Tie your camel first, and then put your trust in Allah.” Ultimately, you will never really "know" if your job choice was the optimal one. You will have FOMO about jobs not taken and uncertainty and doubt about the ones that you did take. The best you can do is do as much due diligence as possible and then take a leap of faith. In the end, you will be okay.
 
 
 ## Sources
