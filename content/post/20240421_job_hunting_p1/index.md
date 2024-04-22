@@ -10,7 +10,7 @@ image:
 ## Introduction
 
 After going through a few job hunting cycles in industry, I went back and thought about what it was that I was doing when I 
-was looking for a job and realized that I probably should have been far more considerate about the criterion that I was consdering. I have been 
+was looking for a job and realized that I probably should have been far more considerate about the criterion that I was considering. I have been 
 incredibly previlaged and lucky at being able to find amazing places such as insitro and absci. However, I do wish I had thought about what I 
 was looking for at each stage. This blog is an attempt to summarize my thoughts, experiences, and recommendations with job hunting as a 
 computational scientist in the biotech space. 
