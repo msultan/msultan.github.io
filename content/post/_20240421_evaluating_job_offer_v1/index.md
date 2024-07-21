@@ -9,7 +9,7 @@ image:
 
 ## Introduction
 
-Congratulations on landing your new job! You've navigated the [maze of job hunting]((https://msultan.github.io/post/20240421_job_hunting_p1/) and emerged victorious. Now comes the exciting yet daunting task of evaluating your job offer. You might see terms like ISOs, RSUs, and 4% 401K match in your offer letter. What do they all mean? This guide breaks down everything you need to know to determine if your offer is "fair," "poor," or "generous." While we're focusing on privately held biotechs, much of this advice applies to public companies too.
+Congratulations on landing your new job! You've navigated the [maze of job hunting](https://msultan.github.io/post/20240421_job_hunting_p1/) and emerged victorious. Now comes the exciting yet daunting task of evaluating your job offer. You might see terms like ISOs, RSUs, and 4% 401K match in your offer letter. What do they all mean? This guide breaks down everything you need to know to determine if your offer is "fair," "poor," or "generous." While we're focusing on privately held biotechs, much of this advice applies to public companies too.
 
 ### Key Tips to Remember
 **Pro tip**: I am NOT a tax lawyer or financial advisor. This guide is based on my experiences and research. It's neither guaranteed to be correct nor complete, so always do your own due diligence.
