@@ -31,7 +31,7 @@ Weekly 1:1 meetings are the cornerstone of every managerial and technical relati
 Sometimes tech leads or managers might try to steer 1:1s towards their priorities (project updates, tactical issues, etc.). While those are valid items, remember that 1:1s are YOUR time to talk about what YOU think is important.
 
 ## Preparation is key
-Even if find yourself scrambling before your 1:1 a few minutes of preparation can lead to a more productive meeting. To that end, I would recommend thinking about: 
+Even if you find yourself scrambling before your 1:1 a few minutes of preparation can lead to a more productive meeting. To that end, I would recommend thinking about: 
 1. What experiments, assays, or data analyses are on my mind right now, and how do I prioritize them?
 2. How do I flag the behavior of person X or experimental design in project Y as being problematic?
 These two questions have usually led me to having more than enough to talk about. 
