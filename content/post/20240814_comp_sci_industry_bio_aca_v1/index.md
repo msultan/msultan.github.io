@@ -28,6 +28,7 @@ Instead of a long-format comparison between big tech, biotech, and academia, weâ
 
 By breaking down these  themes, we aim to provide a clear framework for understanding how your career might unfold across different sectors.
 
+<div class="table-wrapper" markdown="block">
 
 |             Theme            |                                                                                         Topic                                                                                         |                                 Big Tech                                 |                                   Tech Bio/Biotech                                   |                           Academia                           |
 |:----------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------:|:------------------------------------------------------------------------------------:|:------------------------------------------------------------:|
@@ -41,6 +42,7 @@ By breaking down these  themes, we aim to provide a clear framework for understa
 |                              | Impact of Model Improvement: How much does a 1% increase in performance metric improve things?                                                                                        | High; small gains can significantly impact revenue.                      | Low to medium; small gains have limited downstream effects.                          | High; can lead to state-of-the-art results and publications. |
 | Resources and Infrastructure | Funding & Financial Stability: How much of a runway does my company have? What internal/external factors such as central bank rate, stock performance, catalysts might be upcoming.   | Large, stable.                                                           | Moderate; stability varies.                                                          | Limited; grant-dependent.                                    |
 |                              | Compute Resources & Infrastructure: How much compute resources /infrastructure should I expect?                                                                                       | High; cutting-edge resources.                                            | Moderate; varies by company.                                                         | Limited; shared resources.                                   |
+</div>
 
 
 ## Summary
