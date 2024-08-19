@@ -28,7 +28,7 @@ Instead of a long-format comparison between big tech, biotech, and academia, weâ
 
 By breaking down these  themes, we aim to provide a clear framework for understanding how your career might unfold across different sectors.
 
-{.table .table-striped .table-hover .scrollable-table}
+{.table .table-hover .scrollable-table}
 
 |             Theme            |                                                                                         Topic                                                                                         |                                 Big Tech                                 |                                   Tech Bio/Biotech                                   |                           Academia                           |
 |:----------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------:|:------------------------------------------------------------------------------------:|:------------------------------------------------------------:|
