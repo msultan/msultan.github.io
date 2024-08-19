@@ -1,36 +1,40 @@
-// Custom SCSS for Hugo Academic theme to make tables scrollable and improve appearance
+/ Custom SCSS for Hugo Academic theme with dark mode support
 
 // Make tables scrollable
 .article-style table {
   display: block;
   overflow-x: auto;
-  white-space: normal;
+  white-space: nowrap;
   max-width: 100%;
   border-collapse: collapse;
   margin-bottom: 1rem;
+  
+  // Use theme variables for colors
+  color: var(--body-color);
+  background-color: var(--body-bg);
 
   // Style table cells
   td,
   th {
     padding: 0.5rem 1rem;
-    border: 1px solid #dfe2e5;
+    border: 1px solid var(--gray-light);
   }
 
   // Style table headers
   th {
-    background-color: #f1f3f5;
+    background-color: var(--gray-light);
     font-weight: bold;
     text-align: left;
   }
 
   // Alternating row colors for better readability
   tr:nth-child(even) {
-    background-color: #f8f9fa;
+    background-color: var(--gray-lighter);
   }
 
   // Hover effect on table rows
   tr:hover {
-    background-color: #e9ecef;
+    background-color: var(--gray-light);
   }
 }
 
@@ -52,4 +56,21 @@
   overflow-x: auto;
   white-space: nowrap;
   max-width: 100%;
+}
+
+// Dark mode specific overrides
+body.dark {
+  .article-style table {
+    th {
+      background-color: var(--gray-dark);
+    }
+
+    tr:nth-child(even) {
+      background-color: var(--gray-darker);
+    }
+
+    tr:hover {
+      background-color: var(--gray-dark);
+    }
+  }
 }
